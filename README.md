@@ -34,7 +34,7 @@
 - Apply data-driven decision making  
 - Grow in Marketing & Operations analytics  
 
----
+
 
 ## 📫 Connect with Me
-- LinkedIn: (Add your profile link here)
+- LinkedIn:https://www.linkedin.com/in/puvizhidharshinim/
