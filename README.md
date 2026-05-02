@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**puvizhidharshinim/puvizhidharshinim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm M. Puvizhidharshini 👋
 
-Here are some ideas to get you started:
+![Profile Illustration](https://drive.google.com/file/d/11E0QRPuqW2BLIaCkCSaZL2jbbAxK7tKp/view?usp=drive_link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎓 MBA student aspiring to become a Business Analyst  
+📊 Learning SQL, Data Analytics, Tableau & Power BI  
+📚 Using GitHub to share my projects and track my learning  
+📈 Interested in Marketing and Operations  
+💡 Passionate about turning data into business insights  
+
+---
+
+## 🛠️ Skills & Tools
+- SQL  
+- Data Analysis  
+- Excel / Spreadsheets  
+- Tableau  
+- Power BI  
+
+---
+
+## 📌 What I'm Doing
+- Building SQL projects  
+- Creating dashboards in Tableau & Power BI  
+- Practicing data analysis and visualization  
+
+---
+
+## 🚀 Goals
+- Become a skilled Business Analyst  
+- Apply data-driven decision making  
+- Grow in Marketing & Operations analytics  
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: (Add your profile link here)
