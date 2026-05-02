@@ -25,4 +25,3 @@ I enjoy staying curious, learning consistently, and improving little by little ð
 
 ## ðŸ“« Connect with Me
 - LinkedIn:https://www.linkedin.com/in/puvizhidharshinim/
-![Profile Illustration](https://drive.google.com/file/d/11E0QRPuqW2BLIaCkCSaZL2jbbAxK7tKp/view?usp=drive_link)
